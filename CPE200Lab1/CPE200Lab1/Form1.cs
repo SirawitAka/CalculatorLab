@@ -307,7 +307,7 @@ namespace CPE200Lab1
             begin = 1;
             digit = 0;
         }
-
+        int foo;
         private void btnClear_Click(object sender, EventArgs e)
         {
             lblDisplay.Text = "0";
